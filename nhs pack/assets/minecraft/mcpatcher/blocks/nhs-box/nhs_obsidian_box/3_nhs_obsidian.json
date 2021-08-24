@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "mcpatcher/cit/blocks_items_sprites/black_shulker_box/3_nhs_obsidian/3_nhs_obsidian_top",
+        "side": "mcpatcher/cit/blocks_items_sprites/black_shulker_box/3_nhs_obsidian/3_nhs_obsidian_side"
+    }
+}
