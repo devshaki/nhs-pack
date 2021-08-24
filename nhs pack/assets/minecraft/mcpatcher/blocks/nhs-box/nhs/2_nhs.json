@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "mcpatcher/cit/blocks/nhs-box/nhs/2_nhs_top",
-        "side": "mcpatcher/cit/blocks/nhs-box/nhs/2_nhs_side"
-    }
-}
