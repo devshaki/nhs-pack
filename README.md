@@ -14,5 +14,7 @@ HOW TO DOWNLOAD:
 
 
 
-Notes:
+Notes:![nhjs](https://user-images.githubusercontent.com/88513131/130673395-b5a919c0-1447-45e8-b8cd-70e9f2bb6613.PNG)
+![s](https://user-images.githubusercontent.com/88513131/130673467-dced9d10-297a-4fbc-bd56-159609653944.PNG)
+
 This is version one, If there is anything that you dont like, let us know, same as if you want to add anything
